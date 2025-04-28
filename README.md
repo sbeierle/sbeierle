@@ -26,6 +26,6 @@
 
 📫 Contact me:
 - GitHub: [sbeierle](https://github.com/sbeierle)
-- (Optional später LinkedIn oder Hugging Face Profil, wenn du willst)
+
 
 ---
