@@ -1,4 +1,4 @@
-# Sebastian Beierle
+# Stefan Beierle
 
 **AI Engineer | LLM Reversing Specialist | ROCm Optimization Expert | Ethical Red Teaming Researcher**
 
@@ -28,7 +28,7 @@ I build and reverse-engineer large language models for research and ethical appl
 - GitHub: [@sbeierle](https://github.com/sbeierle) 
 
 
-# سيباستيان بيرله
+#  ستيفان بيرله
 
 **مهندس ذكاء اصطناعي | خبير في تحليل النماذج العكسية (LLM Reversing) | متخصص في تحسين أداء ROCm | باحث في اختبارات الاختراق الأخلاقية (Ethical Red Teaming)**
 
