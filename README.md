@@ -13,14 +13,18 @@ I build and reverse-engineer large language models for research and ethical appl
 - JAX/Flax Model Deployment
 - Neural Patching & Activation Mapping
 
+📦 Flagship Repositories:
+- [mistral-downproj-rlhf-patch](https://github.com/sbeierle/mistral-downproj-rlhf-patch) – surgical patching via down_proj
+- [qwen3-unfiltered-study](https://github.com/...) (WIP)
+- [deepseek-coder-opsim](https://github.com/...) (coming soon)
+
+
 🌐 **Active in:**
 - Karlsruhe, Germany
 - Makkah, Saudi Arabia
 
-💬 **Languages:**
-- German
-- English
-- Arabic
+
+🌐 Languages: 🇩🇪 Deutsch | 🇺🇸 English | 🇸🇦 Arabic
 
 🚀 **Passion:** *"Built with Courage. Built with Fire. Built with Fame."*
 
